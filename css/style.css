@@ -890,3 +890,17 @@ more media queries
 	height: 60px;
 	width: 60px;
 }
+
+#agrobur{
+	margin-top: 0;
+	height: 60px;
+	width: 200px;
+}
+
+#agrobur:hover {
+	background-color: rgba(235, 231, 231, 0.26);
+}
+
+.social-network li h5 {
+	margin-bottom: 0;
+}
