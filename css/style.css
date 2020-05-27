@@ -882,4 +882,11 @@ more media queries
 	.footer{
 		height: auto;
 	}
+
+	
+}
+
+#whatsapp {
+	height: 60px;
+	width: 60px;
 }
