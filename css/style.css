@@ -204,7 +204,7 @@ Home sections
 }
 
 .section-heading h2 {
-	font-size: 38px;
+	font-size: 28px;
 	text-transform: uppercase;
 }
 
@@ -315,7 +315,7 @@ Intro
 #intro h2 {
   color: #fff;
   margin-bottom: 30px;
-  font-size: 48px;
+  font-size: 28px;
   font-weight: 700;
 }
 
@@ -329,7 +329,7 @@ Intro
 
 @media (max-width: 768px ) {
   #intro h2 {
-    font-size: 36px;
+    font-size: 28px;
   }
 }
 
